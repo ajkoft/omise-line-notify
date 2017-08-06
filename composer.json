@@ -1,0 +1,5 @@
+{
+    "require": {
+        "kittinan/php-line-notify": "^0.1.0"
+    }
+}
